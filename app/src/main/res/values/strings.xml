@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ApexApplication</string>
+    <string name="enrollment_one_header">
+        Enroll in 2024 fall courses.
+    </string>
+    <string name="enrollment_one_body">
+        Enrollment is now open for the Fall 2024 semester.
+    </string>
+    <string name="enrollment_two_header">
+        Participate in a research interview to earn a gift card!
+    </string>
+    <string name="enrollment_two_body">
+        Sign up to help make our CU Mobile app a better experience for all.
+    </string>
+    <string name="enrollment_three_header">
+        Keep up the momentum!
+    </string>
+    <string name="enrollment_three_body">
+        You’re halfway through the semester. Keep up the great work and finish up the semester strong!
+    </string>
+    <string name="enrollment_four_header">
+        Are you on track to graduate?
+    </string>
+    <string name="enrollment_four_body">
+        Review your academic plan to ensure that you are on the right track to graduate.
+    </string>
+    <string name="resources_section_header">Student Resources</string>
+    <string name="daily_bonus_text">Daily Bonus</string>
+    <string name="current_week">10</string>
+    <string name="time_left">10</string>
+    <string name="quiz_item_one_header">COM2000</string>
+    <string name="quiz_item_two_header">MAT1050</string>
+    <string name="quiz_item_three_header">HIS5200</string>
+    <string name="quiz_item_four_header">MKT1250</string>
+    <string name="quiz_item_five_header">MKT1000</string>
+</resources>
